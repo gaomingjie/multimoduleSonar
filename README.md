@@ -1,10 +1,7 @@
 This example demonstrates how to aggregate code coverage across multiple Maven modules using TestNG, Jacoco, and Sonar.
 It also shows how to separate code by integration and unit tests.
 
-how to collect code coverage by integration tests
-
-This example demonstrates how to collect code coverage by integration tests, tests are located in a separate Java Maven module.
-SonarQube aggregates code coverage by unit tests and integration tersts to compute an overall code coverage (this feature requires SonarQube 3.3).
+For for details visit [www.minh.io](http://www.minh.io/tech/2013/08/03/sonar-code-quality/)
 
 Prerequisites
 =============
